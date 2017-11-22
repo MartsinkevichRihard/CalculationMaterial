@@ -113,6 +113,7 @@
                 <Property name="editable" type="boolean" value="false"/>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&lt;html&gt;&#x41d;&#x435;&#x43e;&#x431;&#x445;&#x43e;&#x434;&#x438;&#x43c;&#x43e;&#x435; &#x43a;&#x43e;&#x43b;-&#x432;&#x43e; &#x440;&#x435;&#x435;&#x43a; &#x434;&#x43b;&#x44f;&lt;p&gt;&#x438;&#x437;&#x433;&#x43e;&#x442;&#x43e;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x44f; &#x443;&#x43a;&#x430;&#x437;&#x430;&#x43d;&#x43d;&#x43e;&#x433;&#x43e;  &#x43a;&#x43e;&#x43b;-&#x432;&#x430;&lt;p&gt;&#x440;&#x430;&#x43c; &#x441; &#x437;&#x430;&#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x43c;&#x438; &#x433;&#x430;&#x431;&#x430;&#x440;&#x438;&#x442;&#x430;&#x43c;&#x438;"/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -140,6 +141,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x437;&#x430;&#x432;&#x43e;&#x434;&#x441;&#x43a;&#x443;&#x44e; &#x434;&#x43b;&#x438;&#x43d;&#x443; &#x440;&#x435;&#x439;&#x43a;&#x438; &#x43f;&#x43e;&#x441;&#x442;&#x430;&#x432;&#x449;&#x438;&#x43a;&#x430;."/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -176,6 +178,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x43d;&#x435;&#x43e;&#x431;&#x445;&#x43e;&#x434;&#x438;&#x43c;&#x43e;&#x435; &#x43a;&#x43e;&#x43b;-&#x432;&#x43e; &#x440;&#x430;&#x43c;."/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
                   <Dimension value="[12, 20]"/>
@@ -195,6 +198,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x43c;&#x435;&#x43d;&#x44c;&#x448;&#x443;&#x44e; &#x441;&#x442;&#x43e;&#x440;&#x43e;&#x43d;&#x443; &#x440;&#x430;&#x43c;&#x44b;"/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -234,6 +238,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&lt;html&gt;&lt;p&gt;&#x412;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x448;&#x438;&#x440;&#x438;&#x43d;&#x443; &#x431;&#x430;&#x433;&#x435;&#x442;&#x430; &#x434;&#x43b;&#x44f; &#x440;&#x430;&#x441;&#x447;&#x435;&#x442;&#x430; &#x43a;&#x43e;&#x43b;-&#x432;&#x430;&lt;p&gt;&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;&#x430; &#x43f;&#x43e; &#x432;&#x43d;&#x443;&#x442;&#x440;&#x435;&#x43d;&#x43d;&#x438;&#x43c; &#x440;&#x430;&#x437;&#x43c;&#x435;&#x440;&#x430;&#x43c; &#x440;&#x430;&#x43c;&#x44b;.&lt;p&gt;&#x41e;&#x441;&#x442;&#x430;&#x432;&#x44c;&#x442;&#x435; &#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x440;&#x430;&#x432;&#x43d;&#x44b;&#x43c; &#x43d;&#x443;&#x43b;&#x44e; &#x434;&#x43b;&#x44f; &#x440;&#x430;&#x441;&#x447;&#x435;&#x442;&#x430;&lt;p&gt;&#x43f;&#x43e; &#x432;&#x43d;&#x435;&#x448;&#x43d;&#x438;&#x43c; &#x433;&#x430;&#x431;&#x430;&#x440;&#x438;&#x442;&#x430;&#x43c; &#x440;&#x430;&#x43c;&#x44b;"/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -253,6 +258,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x431;&#x43e;&#x43b;&#x44c;&#x448;&#x443;&#x44e; &#x441;&#x442;&#x43e;&#x440;&#x43e;&#x43d;&#x443; &#x440;&#x430;&#x43c;&#x44b;"/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -336,6 +342,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x431;&#x43e;&#x43b;&#x44c;&#x448;&#x443;&#x44e; &#x441;&#x442;&#x43e;&#x440;&#x43e;&#x43d;&#x443; &#x43f;&#x430;&#x441;&#x43f;&#x430;&#x440;&#x442;&#x443; "/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -352,6 +359,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x43c;&#x435;&#x43d;&#x44c;&#x448;&#x443;&#x44e; &#x441;&#x442;&#x43e;&#x440;&#x43e;&#x43d;&#x443; &#x43f;&#x430;&#x441;&#x43f;&#x430;&#x440;&#x442;&#x443; "/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -368,6 +376,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&lt;html&gt;&lt;p&gt;&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x447;&#x430;&#x441;&#x442;&#x44c; &#x43f;&#x430;&#x441;&#x43f;&#x430;&#x440;&#x442;&#x443;&lt;p&gt;&#x441;&#x43a;&#x440;&#x44b;&#x442;&#x443;&#x44e; &#x43f;&#x440;&#x438;&#x43f;&#x443;&#x441;&#x43a;&#x43e;&#x43c; &#x431;&#x430;&#x433;&#x435;&#x442;&#x430;.&lt;p&gt;&#x434;&#x43b;&#x44f; &#x440;&#x430;&#x441;&#x447;&#x435;&#x442;&#x430; &#x438;&#x437;&#x434;&#x435;&#x43b;&#x438;&#x44f; &quot;&#x432; &#x441;&#x432;&#x435;&#x442;&#x443;&quot;"/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -391,6 +400,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&lt;html&gt;&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x437;&#x430;&#x432;&#x43e;&#x434;&#x441;&#x43a;&#x443;&#x44e;&lt;p&gt;&#x434;&#x43b;&#x438;&#x43d;&#x443; &#x43b;&#x438;&#x441;&#x442;&#x430; &#x43f;&#x430;&#x441;&#x43f;&#x430;&#x440;&#x442;&#x443;."/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -457,6 +467,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&lt;html&gt;&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x437;&#x430;&#x432;&#x43e;&#x434;&#x441;&#x43a;&#x443;&#x44e;&lt;p&gt;&#x448;&#x438;&#x440;&#x438;&#x43d;&#x443; &#x43b;&#x438;&#x441;&#x442;&#x430; &#x43f;&#x430;&#x441;&#x43f;&#x430;&#x440;&#x442;&#x443;."/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -486,6 +497,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&lt;html&gt;&#x423;&#x43a;&#x430;&#x436;&#x438;&#x442;&#x435; &#x43d;&#x435;&#x43e;&#x431;&#x445;&#x43e;&#x434;&#x438;&#x43c;&#x43e;&#x435; &#x43a;&#x43e;&#x43b;-&#x432;&#x430;&lt;p&gt;&#x433;&#x43e;&#x442;&#x43e;&#x432;&#x44b;&#x445; &#x438;&#x437;&#x434;&#x435;&#x43b;&#x438;&#x439;."/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="opaque" type="boolean" value="false"/>
                 <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -513,6 +525,7 @@
                 <Property name="editable" type="boolean" value="false"/>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="text" type="java.lang.String" value="0"/>
+                <Property name="toolTipText" type="java.lang.String" value="&lt;html&gt;&#x41d;&#x435;&#x43e;&#x431;&#x445;&#x43e;&#x434;&#x438;&#x43c;&#x43e;&#x435; &#x43a;&#x43e;&#x43b;-&#x432;&#x430; &#x43b;&#x438;&#x441;&#x442;&#x43e;&#x432; &#x43f;&#x430;&#x441;&#x43f;&#x430;&#x440;&#x442;&#x443;&lt;p&gt;&#x437;&#x430;&#x434;&#x430;&#x43d;&#x44b;&#x445; &#x440;&#x430;&#x437;&#x43c;&#x435;&#x440;&#x43e;&#x432; &#x434;&#x43b;&#x44f; &#x438;&#x437;&#x433;&#x43e;&#x442;&#x43e;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x44f;&lt;p&gt;&#x443;&#x43a;&#x430;&#x437;&#x430;&#x43d;&#x43d;&#x43e;&#x433;&#x43e; &#x43a;&#x43e;&#x43b;-&#x432;&#x430; &#x438;&#x437;&#x434;&#x435;&#x43b;&#x438;&#x439; "/>
                 <Property name="autoscrolls" type="boolean" value="false"/>
                 <Property name="highlighter" type="javax.swing.text.Highlighter" editor="org.netbeans.modules.form.ComponentChooserEditor">
                   <ComponentRef name="null"/>

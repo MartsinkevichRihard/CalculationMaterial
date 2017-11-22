@@ -109,6 +109,7 @@ public class Main extends javax.swing.JFrame {
         getFinFrame.setEditable(false);
         getFinFrame.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         getFinFrame.setText("0");
+        getFinFrame.setToolTipText("<html>Необходимое кол-во реек для<p>изготовления указанного  кол-ва<p>рам с заданными габаритами");
         getFinFrame.setAutoscrolls(false);
         getFinFrame.setOpaque(false);
         getFinFrame.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -123,6 +124,7 @@ public class Main extends javax.swing.JFrame {
 
         lengthBaget.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         lengthBaget.setText("0");
+        lengthBaget.setToolTipText("Укажите заводскую длину рейки поставщика.");
         lengthBaget.setAutoscrolls(false);
         lengthBaget.setOpaque(false);
         lengthBaget.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -136,6 +138,7 @@ public class Main extends javax.swing.JFrame {
 
         finFrame.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         finFrame.setText("0");
+        finFrame.setToolTipText("Укажите необходимое кол-во рам.");
         finFrame.setAutoscrolls(false);
         finFrame.setMinimumSize(new java.awt.Dimension(12, 20));
         finFrame.setOpaque(false);
@@ -144,6 +147,7 @@ public class Main extends javax.swing.JFrame {
 
         smallFragmentFrame.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         smallFragmentFrame.setText("0");
+        smallFragmentFrame.setToolTipText("Укажите меньшую сторону рамы");
         smallFragmentFrame.setAutoscrolls(false);
         smallFragmentFrame.setOpaque(false);
         smallFragmentFrame.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -162,6 +166,7 @@ public class Main extends javax.swing.JFrame {
 
         widthBaget.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         widthBaget.setText("0");
+        widthBaget.setToolTipText("<html><p>Введите ширину багета для расчета кол-ва<p>материала по внутренним размерам рамы.<p>Оставьте значение равным нулю для расчета<p>по внешним габаритам рамы");
         widthBaget.setAutoscrolls(false);
         widthBaget.setOpaque(false);
         widthBaget.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -174,6 +179,7 @@ public class Main extends javax.swing.JFrame {
 
         bigFragmentFrame.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         bigFragmentFrame.setText("0");
+        bigFragmentFrame.setToolTipText("Укажите большую сторону рамы");
         bigFragmentFrame.setAutoscrolls(false);
         bigFragmentFrame.setOpaque(false);
         bigFragmentFrame.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -218,6 +224,7 @@ public class Main extends javax.swing.JFrame {
 
         bigFragmentPasp.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         bigFragmentPasp.setText("0");
+        bigFragmentPasp.setToolTipText("Укажите большую сторону паспарту ");
         bigFragmentPasp.setAutoscrolls(false);
         bigFragmentPasp.setOpaque(false);
         bigFragmentPasp.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -225,6 +232,7 @@ public class Main extends javax.swing.JFrame {
 
         smallFragmentPasp.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         smallFragmentPasp.setText("0");
+        smallFragmentPasp.setToolTipText("Укажите меньшую сторону паспарту ");
         smallFragmentPasp.setAutoscrolls(false);
         smallFragmentPasp.setOpaque(false);
         smallFragmentPasp.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -232,6 +240,7 @@ public class Main extends javax.swing.JFrame {
 
         hideFragment.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         hideFragment.setText("0");
+        hideFragment.setToolTipText("<html><p>Укажите часть паспарту<p>скрытую припуском багета.<p>для расчета изделия \"в свету\"");
         hideFragment.setAutoscrolls(false);
         hideFragment.setOpaque(false);
         hideFragment.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -240,6 +249,7 @@ public class Main extends javax.swing.JFrame {
 
         xPasp.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         xPasp.setText("0");
+        xPasp.setToolTipText("<html>Укажите заводскую<p>длину листа паспарту.");
         xPasp.setAutoscrolls(false);
         xPasp.setOpaque(false);
         xPasp.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -262,6 +272,7 @@ public class Main extends javax.swing.JFrame {
 
         yPasp.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         yPasp.setText("0");
+        yPasp.setToolTipText("<html>Укажите заводскую<p>ширину листа паспарту.");
         yPasp.setAutoscrolls(false);
         yPasp.setOpaque(false);
         yPasp.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -277,6 +288,7 @@ public class Main extends javax.swing.JFrame {
 
         finPasp.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         finPasp.setText("0");
+        finPasp.setToolTipText("<html>Укажите необходимое кол-ва<p>готовых изделий.");
         finPasp.setAutoscrolls(false);
         finPasp.setOpaque(false);
         finPasp.setSelectionColor(new java.awt.Color(102, 153, 255));
@@ -288,6 +300,7 @@ public class Main extends javax.swing.JFrame {
         getFinPasp.setEditable(false);
         getFinPasp.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         getFinPasp.setText("0");
+        getFinPasp.setToolTipText("<html>Необходимое кол-ва листов паспарту<p>заданых размеров для изготовления<p>указанного кол-ва изделий ");
         getFinPasp.setAutoscrolls(false);
         getFinPasp.setHighlighter(null);
         getFinPasp.setOpaque(false);
